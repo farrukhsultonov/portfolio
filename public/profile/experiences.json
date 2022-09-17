@@ -1,33 +1,26 @@
 {
     "experiences": [
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Full-time",
+            "title": "General Assembly",
+            "subtitle": "Full-Stack Software Engineer",
+            "workType": "Part-time",
             "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
+                "Developed 3 portfolio projects",
+                "Completed 500+ hours of hands-on learning in front and backend programming languages such as JavaScript, Python, MongoDB, Node, React",
+                "Developed projects using MERN stack, CRUD operations, and RESTful API's"
             ],
-            "dateText": "06/20XX – Present"
+            "dateText": "09/2021 – 04/2022"
         },
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Internship",
+            "title": "TJ Transportation LLC",
+            "subtitle": "Truck Dispatcher",
+            "workType": "Full-Time",
             "workDescription": [
-                "Worked on abc."
+                "Dispatched over 2500 freights all over the U.S. from local stores to FEMA loads",
+                "Maintained calls, emails, freights, book-keeping, on time pickup-delivery schedules, customer service",
+                "Coordinate and manage the most efficient loads to remain cost-effective as a company, by negotiating directly with customers and brokers"
             ],
-            "dateText": "01/20XX – 05/20XX"
-        },
-        {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
-            "workType": "Freelance",
-            "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
-            ],
-            "dateText": "09/20XX – 01/20YY"
+            "dateText": "06/2016 – 03/2021"
         }
     ]
 }

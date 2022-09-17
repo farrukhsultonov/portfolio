@@ -14,6 +14,7 @@ const styles = {
   },
   showMoreStyle: {
     margin: 25,
+    display: 'none',
   },
 };
 
@@ -54,7 +55,7 @@ const Projects = (props) => {
                   variant={theme.bsSecondaryVariant}
                   onClick={() => setShowMore(true)}
                 >
-                  show more
+                  {/* show more */}
                 </Button>
                 )}
             </Container>

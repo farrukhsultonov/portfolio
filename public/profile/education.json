@@ -1,19 +1,30 @@
 {
     "education":[
         {
-            "title": "Jun 20XX - Jun 20YY",
-            "cardTitle": "B.Tech, Computer Science",
-            "cardSubtitle":"XYZ University, City",
-            "cardDetailedText": "CGPA - 9.5",
+            "title": "Sep 2021 - Apr 2022",
+            "cardTitle": "General Assembly",
+            "cardSubtitle":"Remote",
+            "cardDetailedText": "Software Engineer Immersive",
             "icon" : {
-                "src": "images/education/lorem-ipsum.png"
+                "src": "images/education/ga.png"
             }
         },
         {
-            "title": "Apr 20XX",
-            "cardTitle": "High School",
-            "cardSubtitle":"ABC School, City",
-            "cardDetailedText": "Marks - 95%"
+            "title": "Aug 2017 - Present",
+            "cardTitle": "St Charles Community College",
+            "cardSubtitle":"St Charles, MO",
+            "cardDetailedText": "Computer Science",
+            "icon" : {
+                "src": "images/education/scc.png"
+            }
+        },
+        {
+            "title": "Aug 2013 - May 2016",
+            "cardTitle": "Fort Zumwalt West High School",
+            "cardSubtitle":"O'Fallon, MO",
+            "icon" : {
+                "src": "images/education/fzw.png"
+            }
         }
     ]
 }

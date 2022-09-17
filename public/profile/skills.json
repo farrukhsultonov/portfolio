@@ -6,14 +6,6 @@
             "items" : [
      
                 {
-                    "icon": "images/skills/java.png",
-                    "title": "Java"
-                },
-                {
-                    "icon": "images/skills/php.png",
-                    "title": "PHP"
-                },
-                {
                     "icon": "images/skills/js.png",
                     "title": "JavaScript"
                 },
@@ -24,15 +16,19 @@
                 {
                     "icon": "images/skills/mysql.png",
                     "title": "MySQL"
+                },
+                {
+                    "icon": "images/skills/html.png",
+                    "title": "HTML5"
+                },
+                {
+                    "icon": "images/skills/css.png",
+                    "title": "CSS3"
                 }
         ]},
         {
             "title": "Frameworks & Technologies",
             "items" : [
-                {
-                    "icon": "images/skills/android_new.png",
-                    "title": "Android"
-                },
                 {
                     "icon": "images/skills/react.png",
                     "title": "React"
@@ -40,6 +36,22 @@
                 {
                     "icon": "images/skills/nodejs.png",
                     "title": "Nodejs"
+                },
+                {
+                    "icon": "images/skills/jquery.png",
+                    "title": "JQuery"
+                },
+                {
+                    "icon": "images/skills/express.png",
+                    "title": "Express"
+                },
+                {
+                    "icon": "images/skills/bootstrap.png",
+                    "title": "Bootstrap"
+                },
+                {
+                    "icon": "images/skills/flask.png",
+                    "title": "Flask"
                 }
             ]
         },
@@ -47,16 +59,20 @@
             "title" : "Tools & Platforms",
             "items": [
                 {
-                    "icon": "images/skills/android-studio.png",
-                    "title": "Android Studio"
+                    "icon": "images/skills/mongodb.png",
+                    "title": "MongoDB"
                 },
                 {
                     "icon": "images/skills/git.png",
                     "title": "Git"
                 },
                 {
-                    "icon": "images/skills/docker.png",
-                    "title": "Docker"
+                    "icon": "images/skills/github.png",
+                    "title": "Github"
+                },
+                {
+                    "icon": "images/skills/heroku.png",
+                    "title": "Heroku"
                 }
             ]
     }
