@@ -13,14 +13,14 @@
         },
         {
             "title": "TJ Transportation LLC",
-            "subtitle": "Truck Dispatcher",
+            "subtitle": "Web Developer",
             "workType": "Full-Time",
             "workDescription": [
-                "Dispatched over 2500 freights all over the U.S. from local stores to FEMA loads",
-                "Maintained calls, emails, freights, book-keeping, on time pickup-delivery schedules, customer service",
-                "Coordinate and manage the most efficient loads to remain cost-effective as a company, by negotiating directly with customers and brokers"
+                "Built a website for a trucking company which automated all the manual work",
+                "Added new features for fleet management, record keeping, invoicing, expense tracking, driver tracking",
+                "Maintained website and its server components, fixing bugs and improving UI"
             ],
-            "dateText": "06/2016 – 03/2021"
+            "dateText": "06/2020 – 07/2022"
         }
     ]
 }

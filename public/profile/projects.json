@@ -3,7 +3,7 @@
         {
             "image" : "images/projects/project3.png",
             "title": "Team5 Restaurant",
-            "bodyText": "- A restaurant application that enables diners to book a table for a convenient dine-in experience without the wait\n -  Diners will receive confirmation of their reservation via email with the option of madifying or canceling their reservation.\n - Team5 application also offers users to order their favorite meal.",
+            "bodyText": "- Built a web application that enables restaurant customers to book a table\n -  Order their favorite meals\n - Receive confirmation of their reservation and their order via email with the option of modifying or canceling",
             "links": [
                 {
                     "text": "GitHub",
@@ -26,7 +26,7 @@
         {
             "image" : "images/projects/project2.png",
             "title": "Watch Gallery",
-            "bodyText": "- Online watch store for enthusiast of fine craftsmenship that allows users to have CRUD ability to view, add, edit, and delete products.\n - Users have to create an account and sign in before being able to access all the features of the web.\n - Developed from inception and wire-framing to deployment with Heroku.",
+            "bodyText": "- Allows users to have CRUD ability to view, add, edit and delete products\n - Users have to create an account and sign in to access all the features of the website \n - Developed from inception and wire-framing to deployment with Heroku.",
             "links": [
                 {
                     "text": "GitHub",
