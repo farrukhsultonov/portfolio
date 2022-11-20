@@ -4,6 +4,6 @@
 
 ## Click [here](https://portfolio-farrukhsultonov.vercel.app/) to learn more about me  😃
 
-# Connect with me: [LinkedIn]("https://linkedin.com/in/farrukh-sultonov/")
+## Connect with me: [LinkedIn](https://linkedin.com/in/farrukh-sultonov/)
 
-# 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1U1gpqN3YiVhb2eKIgsyKK04oyEgSMpgO/view)
+## 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1U1gpqN3YiVhb2eKIgsyKK04oyEgSMpgO/view)
