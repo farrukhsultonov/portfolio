@@ -6,4 +6,4 @@
 
 ## Connect with me: [LinkedIn](https://linkedin.com/in/farrukh-sultonov/)
 
-## 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1U1gpqN3YiVhb2eKIgsyKK04oyEgSMpgO/view)
+## 📄 Know about my experiences [Resume](https://drive.google.com/file/d/11W7FPJj1f8xpR3uOz4otTGO-cREvuuUT/view?usp=sharing)
